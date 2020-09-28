@@ -1,0 +1,105 @@
+
+@media screen and (min-width:768px){
+  body{
+  /* box-sizing: border-box; */
+  margin: auto;
+  width: 960px;
+  /* height: 768px; */
+
+}
+
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#a{
+  width: 960px;
+  height: 100px;
+  border: 1px black;
+  background-color: grey;
+  color: white;
+}
+
+#b{
+  width: 200px;
+  height: 600px;
+  border: 1px black;
+  float: left;
+  background-color: black;
+  color: white;
+}
+
+#c, #d{
+  position: relative;
+  float: left;
+}
+
+#c{
+  width: 380px;
+  height: 200px;
+  border: 1px black;
+  background-color: rgb(99, 78, 78);
+  color: white;
+}
+
+#d{
+  width: 380px;
+  height: 200px;
+  border: 1px black;
+  background-color: rgb(70, 57, 80);
+  color: white;
+}
+
+#e, #f{
+  float: left;
+}
+
+#e{
+  width: 190px;
+  height: 250px;
+  border: 1px black;
+  background-color: rgb(66, 116, 133);
+  color: white;
+}
+
+#f{
+  width: 190px;
+  height: 250px;
+  border: 1px black;
+  background-color: rgb(133, 54, 54);
+  color: white;
+}
+
+#g, #h{
+  float: right;
+}
+
+#g{
+  width: 190px;
+  height: 250px;
+  border: 1px black;
+  background-color: rgb(30, 94, 158);
+  /* float: left; */
+  color: white;
+}
+
+#h{
+  width: 190px;
+  height: 250px;
+  border: 1px black;
+  background-color: rgb(34, 104, 34);
+  /* float: left; */
+  color: white;
+}
+
+#i{
+  width: 760px;
+  height: 150px;
+  border: 1px black;
+  background-color: goldenrod;
+  color: white;
+  float: right;
+}
