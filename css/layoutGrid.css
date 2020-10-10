@@ -1,11 +1,8 @@
 @media screen and (min-width:768px){
   main{
-  /* box-sizing: border-box; */
   margin: auto;
   width: 960px;
   flex-wrap: wrap;
-  /* height: 768px; */
-
 }
 
 div{
@@ -105,12 +102,9 @@ div{
 
 @media screen and (min-width:1024px){
   main{
-  /* box-sizing: border-box; */
   margin: auto;
   width: 960px;
   flex-wrap: wrap;
-  /* height: 768px; */
-
 }
 
 div{
