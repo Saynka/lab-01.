@@ -6,6 +6,10 @@ body{
   width: 480px;
 }
 
+main{
+  flex-wrap: wrap;
+}
+
 div{
   display: flex;
   justify-content: center;
