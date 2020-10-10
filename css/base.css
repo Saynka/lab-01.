@@ -10,6 +10,10 @@ main{
   box-sizing: border-box;
 }
 
+main{
+  flex-wrap: wrap;
+}
+
 div{
   text-align: center;
   align-self: center;
